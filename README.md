@@ -1,3 +1,5 @@
+[![Santiago's GitHub Banner](./assets/3.jpg)](https://twitter.com/10qmSanty)
+
 # Hello and Welcome to my coding adventures! 🎉
 
 👋 Hello there! I'm Santiago Quintana, a passionate 20-year-old computer science student from 🇲🇽 Tecnologico de Monterrey. I'm thrilled to share my journey in the world of code and CompSci with you. 🚀
