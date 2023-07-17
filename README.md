@@ -1,4 +1,4 @@
-[![Santiago's GitHub Banner](./assets/BannerV2.png)](https://twitter.com/10qmSanty)
+[![Santiago's GitHub Banner](./assets/BannerV2.png)](https://www.santiagoquintanamoreno.com/)
 
 # Hello and Welcome to my coding adventures! 🎉
 
