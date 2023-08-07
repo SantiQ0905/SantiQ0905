@@ -19,7 +19,7 @@
 🔧I thrive in collaborative environments, though I can shine as well in solo work. Working as a team or alone, brainstorming ideas is essential for me and my fellow developers. I value teamwork, open communication, and the opportunity to learn from others.
 
 ## Projects I'm Proud Of 🏆
-Work in progress...
+Work in progress....
 <!-- 
 Here are some of the projects I've worked on:
 
