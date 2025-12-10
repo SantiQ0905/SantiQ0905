@@ -1,66 +1,108 @@
-[![Santiago's GitHub Banner](./assets/BannerV3.png)](https://www.santiagoquintanamoreno.com/)
+<h1 align="center">Hello, I'm Santiago 👋</h1> <p align="center">Computer Science • Robotics • Avionics Software • Creative Engineering</p> <div align="center"> <img src="https://img.shields.io/badge/🇲🇽-Tecnológico_de_Monterrey-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/FTC-Mentor-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-Android_Library_Dev-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embedded-ESP32%20&%20C++-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Aviation%20Software-Airbus%20Enthusiast-0A84FF?style=for-the-badge" /> </div>
+🌟 About Me
 
-# Hello and Welcome to my coding adventures! 👨🏻‍💻
+Hey! I’m Santiago Quintana, a 22-year-old Computer Science student at Tecnológico de Monterrey, building my path through software engineering, robotics, embedded systems, and creative tech.
 
-👋 Hello there! I'm Santiago Quintana, a passionate 21-year-old computer science student from 🇲🇽 Tecnologico de Monterrey. I'm thrilled to share my journey in the world of code and CompSci with you. 
+I love working on projects that sit at the intersection of algorithms, real-world engineering, and storytelling. Lately I've been diving deep into:
 
-## About Me 
+✈️ Avionics & aerospace software — fascinated by fly-by-wire systems, PRIMs, and safety-critical architectures.
 
-📚 I'm currently pursuing my Bachelor's degree in Computer Science, where I dive deep into algorithms, data structures, and software development. The endless possibilities in the tech realm have always fascinated me. I'm especially fascinated with cybersecurity and game development. 
+🤖 Robotics development — lead programming mentor at FTC Team 23619 Overture, designing training, teaching, and writing scalable robot libraries.
 
-🤖 I had the incredible opportunity to become a programming and electrical mentor at OVERTURE 7421 a team for FIRST FRC (For Inspiration and Recognition of Science and Technology) for the last two years. Working with aspiring young minds, fostering their enthusiasm for robotics, and empowering them to think creatively has been a truly rewarding experience. 
+⚙️ Embedded systems — ESP32-C6 line follower robot (PID, multiplexer sensor arrays, DRV8833 drivers, custom PCBs).
 
-## What I Bring to the Table 
+📱 Android / Java library engineering — shipping a modern FTC library used by regional teams.
 
-💡 Curiosity, enthusiasm and a constant search for bettering myself are the driving forces behind my work. I'm constantly seeking new challenges to expand my skill set and knowledge. With every project, I aim to deliver innovative solutions and elegant code.
+🧪 Algorithmic modeling — MAS, graph algorithms, optimization, and experimentation pipelines.
 
-🌟 I possess a strong foundation in programming languages such as Python, Java and C++. Additionally, I have hands-on experience with web development using HTML, CSS, DJango.
+🛠️ Web development & API deployment — Node/Express TSX, Railway, Vercel, PostgreSQL, Cloudflare R2.
 
-🔧I thrive in collaborative environments, though I can shine as well in solo work. Working as a team or alone, brainstorming ideas is essential for me and my fellow developers. I value teamwork, open communication, and the opportunity to learn from others.
+✍️ Creative writing — my Lumenforge imprint, developing emotional, cinematic narratives.
 
-## Projects I'm Proud Of 🏆
+I believe in code that is clean, modular, and meaningful — whether it runs on a robot, a server, or tells a story.
 
-Here are some of the projects I've worked on:
-
-1. 🤖 **overftclib / overftclib-rc** - A modern up to date library for FTC robots based on CommandBase and the FRCWPILib. A all-in-one alternative to the many outdated FTC Libraries.  
-[Check it out! - overftclib](https://github.com/SantiQ0905/overftclib)   
-[Check it out! - overftclib-rc](https://github.com/SantiQ0905/overftclibrc)
-
+🧰 Tech Stack
+<div align="center">
+Languages
 
 
 
-## Let's Connect! 🌐
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/santiago-quintana-moreno-861115192/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-quintana-0905" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/26946419/santiago-quintana?tab=profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/santiagoquintana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiagoquintana" height="30" width="40" />
-  </a>
-    <a href="https://x.com/10qmSanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10qmSanty" height="30" width="40" /></a>
+
+
+
+
+Frameworks & Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Focus
+
+💠 Robotics (FTC | ESP32)
+💠 Avionics Software Fundamentals
+💠 Embedded Systems
+💠 Android Library Development
+💠 Backend Engineering
+💠 Algorithms, MAS, Optimization
+
 </div>
+🚀 Featured Projects
+🟣 overftclib & overftclib-rc
 
+A modern, modular FTC robotics library inspired by FRC’s CommandBase and WPILib.
+Built to replace outdated frameworks and give teams a scalable foundation.
 
+🔗 overftclib
 
+🔗 overftclib-rc
 
+⚙️ ESP32-C6 Line Follower Robot
 
+A performant autonomous line-follower featuring:
 
+TCRT5000 array + CD74HC151 multiplexer
 
-<!--
-**SantiQ0905/SantiQ0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DRV8833 motor driver
 
-Here are some ideas to get you started:
+PID controller
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Speed DIP-switch modes
+
+Custom PCB + calibration firmware
+
+Repository coming soon (public release after competition).
+
+📱 Amoxcalli LSM System — Backend & Android App
+
+A full-stack educational platform:
+
+Railway-hosted API (JWT, Firebase Auth, PostgreSQL)
+
+Multi-module Android app using Java and XML
+
+Role-based panels (Superadmin, admin, teacher, student)
+
+CI/CD, Gradle conventions, documentation site
+
+🌐 Atherion Systems — My Web Dev & Engineering Studio
+
+Designing digital solutions, APIs, and educational tools under my personal brand.
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" /> </div>
+🌐 Let's Connect!
+<div align="center" style="margin-bottom: 20px;"> <a href="https://www.linkedin.com/in/santiago-quintana-moreno-861115192/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/26946419/santiago-quintana" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /> </a> <a href="https://instagram.com/santiagoquintana" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /> </a> <a href="https://x.com/10qmSanty" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /> </a> </div>
+Thanks for stopping by 🤍
+
+If you’re into robotics, embedded systems, aviation tech, or storytelling, you’re definitely in the right place.
