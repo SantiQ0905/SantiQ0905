@@ -26,22 +26,6 @@ Here are some of the projects I've worked on:
 [Check it out! - overftclib](https://github.com/SantiQ0905/overftclib)   
 [Check it out! - overftclib-rc](https://github.com/SantiQ0905/overftclibrc)
 
-<!--
-2. 📈 **Drop Tower Breaking simulation** - A MATLAB simulation and research about the efficiency, effects and benefits of the implementation of breaking through electromagnetic fields.  
-[Check it out! - Drop Tower Breaking Simulation](https://github.com/SantiQ0905/DropTowerBreakingSimulation) 
--->
-
-<!--
-3. 
--->
-
-## Some Stats! 📈
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiQ0905&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiQ0905&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SantiQ0905&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 
 
