@@ -51,6 +51,19 @@ I like code that is **clean, documented, and modular**, whether it runs on a rob
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220.svg?style=for-the-badge&logo=platformio&logoColor=white)
 
+### Networking & Systems
+
+![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Simulation-0066CC?style=for-the-badge)
+![CLI](https://img.shields.io/badge/Cisco%20CLI-Configuration%20%26%20Routing-black?style=for-the-badge)
+
+**Skills include:**  
+- Router & switch configuration  
+- DHCP, OSPF, VLANs  
+- Subnetting & addressing  
+- `show running-config`, `configure terminal`, routing tables  
+- Multi-router Packet Tracer topologies  
+
 ### Areas of Focus
 
 - Robotics (FTC and ESP32)
@@ -59,13 +72,13 @@ I like code that is **clean, documented, and modular**, whether it runs on a rob
 - Android library development
 - Backend engineering and APIs
 - Algorithms, MAS, and optimization
+- Cisco networking & Packet Tracer simulations
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 overftclib / overftclib-rc
-
 A modern FTC robotics library inspired by FRC’s Command-based framework and WPILib.  
 Designed to give teams a clean, extensible base instead of relying on outdated code.
 
@@ -74,37 +87,70 @@ Designed to give teams a clean, extensible base instead of relying on outdated c
 
 ---
 
-### ⚙️ ESP32-C6 Line Follower Robot
+### ⚙️ FTC & FRC Robot Code  
+A growing archive of FTC and FRC robot programming over the years:
 
-An autonomous line follower built as a full embedded + control project:
+- Command-based architecture  
+- Subsystems, PID controllers, odometry, vision pipelines  
+- TeleOp + autonomous modes  
+- Training material for new teams & rookies  
 
-- TCRT5000 sensor array with **CD74HC151** multiplexer  
+🔗 Repository (coming soon — will link once public)
+
+---
+
+### ⚙️ ESP32-C6 Line Follower Robot  
+An autonomous line follower built as a complete embedded + control project:
+
+- TCRT5000 sensor array with **CD74HC151 multiplexer**  
 - **DRV8833** motor driver  
-- PID controller with tunable speed modes via DIP switches  
+- PID controller with tunable modes  
 - Custom PCB and calibration firmware  
 
 > Repository will be public after competition and polishing.
 
 ---
 
-### 📱 Amoxcalli LSM — Backend & Android App
+### 🧠 TidyMesh Simulation (Multi-Agent System)
+A MAS simulation written for university coursework:
 
-A full-stack educational platform:
+- Garbage collection MAS  
+- Agent movement strategies  
+- Visualization, metrics, and optimization  
+- Node-based simulation grid  
 
-- Railway-hosted API with JWT, Firebase Auth, and PostgreSQL  
-- Multi-module Android app in Java  
-- Role-based panels (superadmin, admin, teacher, student)  
-- CI/CD, Gradle conventions, and technical documentation for maintainers  
+🔗 Repo coming soon
 
 ---
 
-### 🌐 Atherion Systems
+### ✍️ Worldsmiths Studios  
+A collaborative narrative & software project focused on:
 
-My small **web and engineering studio**, where I experiment with:
+- Story engineering  
+- Character modeling  
+- Dialogue systems  
+- Writing tools & world-building utilities  
 
-- React / TypeScript frontends  
-- REST APIs and auth flows  
-- Developer tooling, docs, and education-focused projects  
+🔗 Repo (released after semester closure)
+
+---
+
+### 📱 Amoxcalli LSM — Backend & Android App  
+A full-stack educational platform:
+
+- Railway-hosted API (JWT, Firebase Auth, PostgreSQL)  
+- Multi-module Android app in Java  
+- Role-based panels (superadmin, admin, teacher, student)  
+- CI/CD, Gradle conventions, documentation  
+
+---
+
+### 🌐 Atherion Systems  
+My engineering & software studio:
+
+- Websites, APIs, system design  
+- Tech education tools  
+- App prototypes + client-ready infrastructure  
 
 ---
 
