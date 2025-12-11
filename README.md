@@ -110,12 +110,10 @@ My small **web and engineering studio**, where I experiment with:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=SantiQ0905&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SantiQ0905?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SantiQ0905?style=for-the-badge)
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" />
-
-</div>
 ---
 
 ## 🌐 Let’s Connect
