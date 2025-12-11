@@ -112,11 +112,10 @@ My small **web and engineering studio**, where I experiment with:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" />
 
 </div>
-
 ---
 
 ## 🌐 Let’s Connect
