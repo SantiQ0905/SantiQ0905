@@ -126,6 +126,7 @@ My personal engineering studio for web apps, APIs, and teaching tools.
 
 ## ✍️ Lumenforge — My Creative Universe
 
+<!--
 <div align="center">
   
 🪄 **Stories shaped by emotion, structure, and cinematic engineering.**  
@@ -149,7 +150,7 @@ A healing journey about reinvention, belonging, and love across mountains,
 wrapped in gentle cinematic pacing.
 
 More stories under Lumenforge coming soon.
-
+-->
 ---
 
 ## 📊 GitHub Stats
