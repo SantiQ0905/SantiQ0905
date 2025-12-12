@@ -1,7 +1,7 @@
 [![Santiago's GitHub Banner](./assets/BannerV3.png)](https://www.santiagoquintanamoreno.com/)
 
 <h1 align="center">Hello, I'm Santiago 👋</h1>
-<p align="center">Computer Science · Robotics · Avionics Software · Creative Engineering</p>
+<p align="center">Computer Science · Robotics · Embedded Systems · Avionics Software · Creative Engineering</p>
 
 <div align="center">
 
@@ -9,7 +9,12 @@
 <img src="https://img.shields.io/badge/FTC-Programming%20Mentor-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Android-Library%20Developer-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Embedded-ESP32%20%26%20C++-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interest-Avionics%20Software-0A84FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Avionics-Airbus%20Systems-0A84FF?style=for-the-badge&logo=airbus&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/German-B1%20→%20B2%20in%20progress-FFD700?style=for-the-badge&logo=deutschebahn&logoColor=black" />
+<img src="https://img.shields.io/badge/Korean-초급%20Beginner-FF4B4B?style=for-the-badge&logo=googletagmanager&logoColor=white" />
 
 </div>
 
@@ -17,32 +22,31 @@
 
 ## 🌟 About Me
 
-I’m **Santiago Quintana**, a 22-year-old Computer Science student at **Tecnológico de Monterrey**.
+I’m **Santiago Quintana**, a 22-year-old Computer Science student at **Tecnológico de Monterrey**, building things that merge **engineering, creativity, algorithms, and real-world tech**.
 
-I enjoy building things where **algorithms meet real hardware and real people**:
+My current fascinations include:
 
-- ✈️ Avionics and safety-critical software concepts  
-- 🤖 Robotics as lead programming mentor for FTC Team 23619 **Overture**  
-- ⚙️ Embedded systems with **ESP32**, custom PCBs, and sensor arrays  
-- 📱 Android / Java library development for robotics teams  
-- 🧪 Multi-agent systems, graph algorithms, and optimization  
-- 🌐 Backend and APIs with Node / Express / TypeScript / PostgreSQL  
+- ✈️ **Avionics & Flight Systems** – Airbus fly-by-wire architecture, PRIM/SEC logic, safety-critical development  
+- 🤖 **Robotics (FTC & FRC)** – command-based architecture, mentoring team Overture 23619  
+- ⚙️ **Embedded Systems** – ESP32-C6, custom PCBs, multiplexer sensors, motor control  
+- 📱 **Android / Java Library Engineering** – modern FTC libraries used by regional teams  
+- 🧪 **MAS & Optimization Algorithms** – multi-agent simulations, graph theory, heuristics  
+- 🌐 **Backend Development** – Node/Express TSX, PostgreSQL, Cloudflare, Railway  
+- ✍️ **Narrative Engineering** – through my Lumenforge creative imprint  
 
-I like code that is **clean, documented, and modular**, whether it runs on a robot, a phone, or a server.
+I aim for code that is **clean, documented, modular, and meaningful**.
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Languages
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Tools
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,131 +56,128 @@ I like code that is **clean, documented, and modular**, whether it runs on a rob
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220.svg?style=for-the-badge&logo=platformio&logoColor=white)
 
 ### Networking & Systems
-
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Simulation-0066CC?style=for-the-badge)
 ![CLI](https://img.shields.io/badge/Cisco%20CLI-Configuration%20%26%20Routing-black?style=for-the-badge)
 
 **Skills include:**  
 - Router & switch configuration  
-- DHCP, OSPF, VLANs  
-- Subnetting & addressing  
-- `show running-config`, `configure terminal`, routing tables  
-- Multi-router Packet Tracer topologies  
+- DHCP, VLANs, OSPF, routing tables  
+- Subnetting, addressing, ACL fundamentals  
+- Multi-router topologies (Packet Tracer)  
 
 ### Areas of Focus
-
-- Robotics (FTC and ESP32)
+- Robotics (FTC, ESP32)
 - Avionics software fundamentals
-- Embedded systems and control
-- Android library development
-- Backend engineering and APIs
-- Algorithms, MAS, and optimization
-- Cisco networking & Packet Tracer simulations
+- Embedded systems & control
+- Backend engineering
+- Algorithms, MAS, optimization
+- Network engineering basics
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 overftclib / overftclib-rc
-A modern FTC robotics library inspired by FRC’s Command-based framework and WPILib.  
-Designed to give teams a clean, extensible base instead of relying on outdated code.
+### 🤖 overftclib / overftclib-rc  
+A modern FTC robotics library inspired by FRC’s CommandBase + WPILib.
 
-- 🔗 [overftclib](https://github.com/SantiQ0905/overftclib)  
-- 🔗 [overftclib-rc](https://github.com/SantiQ0905/overftclibrc)
-
----
-
-### ⚙️ FTC & FRC Robot Code  
-A growing archive of FTC and FRC robot programming over the years:
-
-- Command-based architecture  
-- Subsystems, PID controllers, odometry, vision pipelines  
-- TeleOp + autonomous modes  
-- Training material for new teams & rookies  
-
-🔗 Repository (coming soon — will link once public)
+- 🔗 https://github.com/SantiQ0905/overftclib  
+- 🔗 https://github.com/SantiQ0905/overftclibrc  
 
 ---
 
-### ⚙️ ESP32-C6 Line Follower Robot  
-An autonomous line follower built as a complete embedded + control project:
-
-- TCRT5000 sensor array with **CD74HC151 multiplexer**  
-- **DRV8833** motor driver  
-- PID controller with tunable modes  
-- Custom PCB and calibration firmware  
-
-> Repository will be public after competition and polishing.
-
----
-
-### 🧠 TidyMesh Simulation (Multi-Agent System)
-A MAS simulation written for university coursework:
-
-- Garbage collection MAS  
-- Agent movement strategies  
-- Visualization, metrics, and optimization  
-- Node-based simulation grid  
+### 🤖 FTC & FRC Robot Code Repos  
+Command-based Java robot architectures for educational and competition use.  
+Includes PID controllers, odometry, vision pipelines, and training examples.
 
 🔗 Repo coming soon
 
 ---
 
-### ✍️ Worldsmiths Studios  
-A collaborative narrative & software project focused on:
+### ⚙️ ESP32-C6 Line Follower Robot  
+A complete embedded robotics project featuring:
 
-- Story engineering  
-- Character modeling  
-- Dialogue systems  
-- Writing tools & world-building utilities  
+- TCRT5000 sensor array + CD74HC151 multiplexer  
+- DRV8833 motor driver  
+- PID controller + speed modes  
+- Custom PCB + calibration firmware  
 
-🔗 Repo (released after semester closure)
+---
+
+### 🧠 TidyMesh Simulation (MAS Project)  
+A multi-agent simulation exploring task allocation and agent movement strategies.
+
+---
+
+### 🏫 Worldsmiths Studios  
+A narrative + software hybrid project for story engineering and tooling.
 
 ---
 
 ### 📱 Amoxcalli LSM — Backend & Android App  
-A full-stack educational platform:
-
-- Railway-hosted API (JWT, Firebase Auth, PostgreSQL)  
-- Multi-module Android app in Java  
-- Role-based panels (superadmin, admin, teacher, student)  
-- CI/CD, Gradle conventions, documentation  
+Full-stack educational system with Firebase Auth, JWT, PostgreSQL, and multi-module Android app.
 
 ---
 
 ### 🌐 Atherion Systems  
-My engineering & software studio:
+My personal engineering studio for web apps, APIs, and teaching tools.
 
-- Websites, APIs, system design  
-- Tech education tools  
-- App prototypes + client-ready infrastructure  
+---
+
+## ✍️ Lumenforge — My Creative Universe
+
+<div align="center">
+  
+🪄 **Stories shaped by emotion, structure, and cinematic engineering.**  
+Where love, resilience, time, and memory intersect with technical precision.
+
+</div>
+
+Key projects include:
+
+### 🌙 *Ethan & Sofía* — A Cinematic Novel  
+A tri-timeline narrative blending coding, architecture, emotional engineering,  
+and time as currency. Setpieces include:
+
+- “The Night — Moonwalk Vows”  
+- Stairwell confession  
+- Sunrise bridge convergence  
+- Zimmer + Laufey-inspired score motifs  
+
+### 🍁 *CEO Turned Farmer* — Vancouver & Canmore  
+A healing journey about reinvention, belonging, and love across mountains,  
+wrapped in gentle cinematic pacing.
+
+More stories under Lumenforge coming soon.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=SantiQ0905&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/SantiQ0905?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SantiQ0905?style=for-the-badge)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" />
+
+</div>
 
 ---
 
 ## 🌐 Let’s Connect
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/santiago-quintana-moreno-861115192/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/26946419/santiago-quintana" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
 <a href="https://instagram.com/santiagoquintana" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 <a href="https://x.com/10qmSanty" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
 </div>
@@ -184,4 +185,4 @@ My engineering & software studio:
 ---
 
 Thanks for stopping by 🤍  
-If you’re into robotics, embedded systems, aviation tech, or storytelling, you’re definitely in the right place.
+If you’re into **robotics, embedded systems, avionics, or cinematic storytelling**, you’re in the right place.
