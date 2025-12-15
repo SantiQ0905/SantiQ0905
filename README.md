@@ -90,8 +90,9 @@ A modern FTC robotics library inspired by FRC’s CommandBase + WPILib.
 Command-based Java robot architectures for educational and competition use.  
 Includes PID controllers, odometry, vision pipelines, and training examples.
 
-🔗 Repo coming soon
-
+- FTC 🔗 https://github.com/Overture-7421/Hornet-2026-23619
+- FRC 🔗 https://github.com/Overture-7421/Mulssane-2022
+  
 ---
 
 ### ⚙️ ESP32-C6 Line Follower Robot  
@@ -102,16 +103,20 @@ A complete embedded robotics project featuring:
 - PID controller + speed modes  
 - Custom PCB + calibration firmware  
 
+- 🔗 https://github.com/SantiQ0905/LARC_2025
 ---
 
 ### 🧠 TidyMesh Simulation (MAS Project)  
 A multi-agent simulation exploring task allocation and agent movement strategies.
 
+- 🔗 https://github.com/SantiQ0905/TidyMesh_Sim
 ---
 
 ### 🏫 Worldsmiths Studios  
 A narrative + software hybrid project for story engineering and tooling.
 
+- Web 🔗 https://github.com/SantiQ0905/WorldsmithsStudiosWeb
+- Game 🔗 https://github.com/SantiQ0905/SmartLogix_WebGL
 ---
 
 ### 📱 Amoxcalli LSM — Backend & Android App  
