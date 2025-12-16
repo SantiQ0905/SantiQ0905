@@ -122,6 +122,8 @@ A narrative + software hybrid project for story engineering and tooling.
 ### 📱 Amoxcalli LSM — Backend & Android App  
 Full-stack educational system with Firebase Auth, JWT, PostgreSQL, and multi-module Android app.
 
+- App 🔗 https://github.com/SantiQ0905/Amoxcalli_App
+- API 🔗 https://github.com/SantiQ0905/KetzalliDB_API
 ---
 
 ### 🌐 Atherion Systems  
