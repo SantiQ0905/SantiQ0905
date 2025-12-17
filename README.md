@@ -133,7 +133,6 @@ My personal engineering studio for web apps, APIs, and teaching tools.
 
 ## ✍️ Lumenforge — My Creative Universe
 
-<!--
 <div align="center">
   
 🪄 **Stories shaped by emotion, structure, and cinematic engineering.**  
@@ -141,6 +140,8 @@ Where love, resilience, time, and memory intersect with technical precision.
 
 </div>
 
+
+<!--
 Key projects include:
 
 ### 🌙 *Ethan & Sofía* — A Cinematic Novel  
