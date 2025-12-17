@@ -160,17 +160,6 @@ More stories under Lumenforge coming soon.
 -->
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SantiQ0905&show_icons=true&theme=dracula&count_private=true" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SantiQ0905&layout=compact&theme=dracula" />
-
-</div>
-
----
-
 ## 🌐 Let’s Connect
 
 <div align="center">
