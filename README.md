@@ -126,7 +126,7 @@ Full-stack educational system with Firebase Auth, JWT, PostgreSQL, and multi-mod
 - API 🔗 https://github.com/SantiQ0905/KetzalliDB_API
 ---
 
-### 🌐 Atherion Systems  
+## 🌐 Atherion Systems  
 <div align="center">
   
 💻 **Software, architecture, robotics, web, automation.**  
