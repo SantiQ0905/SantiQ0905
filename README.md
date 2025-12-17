@@ -136,7 +136,7 @@ It's the brand that communicates reliability, rigor, and long-term thinking.
 
 ---
 
-## ✍️ Lumenforge — My Creative Universe
+## ✍️ Lumenforge
 
 <div align="center">
   
