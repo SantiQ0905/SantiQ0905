@@ -127,7 +127,12 @@ Full-stack educational system with Firebase Auth, JWT, PostgreSQL, and multi-mod
 ---
 
 ### 🌐 Atherion Systems  
-My personal engineering studio for web apps, APIs, and teaching tools.
+<div align="center">
+  
+💻 **Software, architecture, robotics, web, automation.**  
+It's the brand that communicates reliability, rigor, and long-term thinking.
+
+</div
 
 ---
 
@@ -182,5 +187,5 @@ More stories under Lumenforge coming soon.
 
 ---
 
-Thanks for stopping by 🤍  
+Thanks for reading  
 If you’re into **robotics, embedded systems, avionics, or cinematic storytelling**, you’re in the right place.
