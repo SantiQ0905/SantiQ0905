@@ -27,7 +27,7 @@ I’m **Santiago Quintana**, a 22-year-old Computer Science student at **Tecnol�
 My current fascinations include:
 
 - ✈️ **Avionics & Flight Systems** – Airbus fly-by-wire architecture, PRIM/SEC logic, safety-critical development  
-- 🤖 **Robotics (FTC & FRC)** – command-based architecture, mentoring team Overture 23619  
+- 🤖 **Robotics (FTC & FRC)** – command-based architecture, mentoring team Overture 23619 and 7421.
 - ⚙️ **Embedded Systems** – ESP32-C6, custom PCBs, multiplexer sensors, motor control  
 - 📱 **Android / Java Library Engineering** – modern FTC libraries used by regional teams  
 - 🧪 **MAS & Optimization Algorithms** – multi-agent simulations, graph theory, heuristics  
@@ -124,6 +124,12 @@ Full-stack educational system with Firebase Auth, JWT, PostgreSQL, and multi-mod
 
 - App 🔗 https://github.com/SantiQ0905/Amoxcalli_App
 - API 🔗 https://github.com/SantiQ0905/KetzalliDB_API
+---
+
+### ✈️ Airbus Systems Simulation - ImGUI, C++, SDL2
+A full physiscs centered Airbus Systems of Avionics simulation, ECAM, PFD, Autopilot and checklist operations.
+
+- App 🔗 https://github.com/SantiQ0905/Airbus_SysSim
 ---
 
 ## 🌐 Atherion Systems  
