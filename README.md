@@ -22,7 +22,7 @@
 
 ## 🌟 About Me
 
-I’m **Santiago Quintana**, a 22-year-old Computer Science student at **Tecnológico de Monterrey**, building things that merge **engineering, creativity, algorithms, and real-world tech**.
+I’m **Santiago Quintana**, a 23-year-old Computer Science student at **Tecnológico de Monterrey**, building things that merge **engineering, creativity, algorithms, and real-world tech**.
 
 My current fascinations include:
 
