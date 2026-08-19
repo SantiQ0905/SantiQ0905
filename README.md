@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Android-Library%20Developer-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Embedded-ESP32%20%26%20C++-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Avionics-Airbus%20Systems-0A84FF?style=for-the-badge&logo=airbus&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-OKE%20Deployments-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <br/>
 
@@ -31,7 +33,7 @@ My current fascinations include:
 - ⚙️ **Embedded Systems** – ESP32-C6, custom PCBs, multiplexer sensors, motor control  
 - 📱 **Android / Java Library Engineering** – modern FTC libraries used by regional teams  
 - 🧪 **MAS & Optimization Algorithms** – multi-agent simulations, graph theory, heuristics  
-- 🌐 **Backend Development** – Node/Express TSX, PostgreSQL, Cloudflare, Railway  
+- 🌐 **Backend & Cloud Engineering** – Spring Boot microservices, Oracle Cloud Infrastructure (OKE, Autonomous DB), Node/Express TSX, PostgreSQL, Cloudflare, Railway  
 - ✍️ **Narrative Engineering** – through my Lumenforge creative imprint  
 
 I aim for code that is **clean, documented, modular, and meaningful**.
@@ -49,11 +51,25 @@ I aim for code that is **clean, documented, modular, and meaningful**.
 ### Frameworks & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F58220.svg?style=for-the-badge&logo=platformio&logoColor=white)
+
+### Cloud & DevOps
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-OCI%20%26%20Autonomous%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-OKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Skills include:**
+- Spring Boot microservices, JPA, Flyway migrations
+- Oracle Autonomous DB (mTLS wallet management, ADB lifecycle)
+- OKE blue-green deployments, OCI DevOps pipelines
+- OAuth2/PKCE with OCI IAM, cert-manager/Let's Encrypt HTTPS
+- Static analysis (Qodana), security testing (OWASP ZAP, Sn1per)
 
 ### Networking & Systems
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -64,19 +80,30 @@ I aim for code that is **clean, documented, modular, and meaningful**.
 - Router & switch configuration  
 - DHCP, VLANs, OSPF, routing tables  
 - Subnetting, addressing, ACL fundamentals  
-- Multi-router topologies (Packet Tracer)  
+- Multi-router topologies (Packet Tracer, plus a physical Catalyst 1300 lab)
 
 ### Areas of Focus
 - Robotics (FTC, ESP32)
 - Avionics software fundamentals
 - Embedded systems & control
-- Backend engineering
+- Backend & cloud engineering (Oracle, Kubernetes)
 - Algorithms, MAS, optimization
 - Network engineering basics
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔮 Andromeda — Oracle Task Management Bot
+A Spring Boot + Telegram task-management platform built for an Oracle dev team as part of Atherion Systems, my Software Engineering course's student org. Served as **Product Owner and CTO** on a six-person team, taking the project from architecture to final delivery.
+
+- Spring Boot microservices, Oracle Autonomous DB, Flyway, JPA, React/TypeScript frontend, Telegram Bot, Groq/Gemini RAG layer
+- Personally built the OKE infrastructure, CI/CD pipeline, HTTPS via cert-manager/Let's Encrypt, OAuth2/PKCE with OCI IAM, RBAC, blue-green deployment manifests, and Qodana static analysis integration
+- Full documentation set: PGCS/IEEE 828, SRS, DIYAS architecture, risk matrix, quality and test plans
+- Security hardening: OWASP ZAP and Sn1per scans with formal reports, DB privilege minimization, network security lists
+- Delivered mid-June 2026; the team's final presentation ranked best in the cohort
+
+---
 
 ### 🤖 overftclib / overftclib-rc  
 A modern FTC robotics library inspired by FRC’s CommandBase + WPILib.
@@ -132,15 +159,6 @@ A full physiscs centered Airbus Systems of Avionics simulation, ECAM, PFD, Autop
 - App 🔗 https://github.com/SantiQ0905/Airbus_SysSim
 ---
 
-## 🌐 Atherion Systems  
-<div align="center">
-  
-💻 **Software, architecture, robotics, web, automation.**  
-It's the brand that communicates reliability, rigor, and long-term thinking.
-
-</div
-
----
 
 ## ✍️ Lumenforge
 
