@@ -127,7 +127,7 @@ Lumenforge is my creative imprint. A couple of essays to start with, Both in spa
 
 ## 🌐 Let's Connect
 
-📧 **your-email@example.com** · 🌎 [santiagoquintanamoreno.com](https://www.santiagoquintanamoreno.com/)
+📧 **santy.10qm.gm@gmail.com** · 🌎 [santiagoquintanamoreno.com](https://www.santiagoquintanamoreno.com/)
 
 <div align="center">
 
